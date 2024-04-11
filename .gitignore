@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+
+MH_01_easy/*
+MH_01_easy.zip
